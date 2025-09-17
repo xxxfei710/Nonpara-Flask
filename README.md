@@ -20,6 +20,6 @@ We attempted to create an interactive interface to implement the application of 
 
 3. Note.
    (1) The nonparametric method used here is based on Lynden-Bell 1971 and Efron & Petrosian 1992.
-   (2) For additional detailed calculations, please refer to Dong et al. 2024.
-   (3) Everyone is welcome to use our code, but we ask that if the provided data or software is used in any publication, the authors should cite this paper or              include the following statement in the acknowledgments:
-       "The data used in our work were taken from the catalog (Dong et al., 2024), and the original data sources are cited therein."
+   (2) For additional detailed calculations, please refer to Dong et al. (2025).
+   (3) Everyone is welcome to use our code, but we ask that if the provided data or software is used in any publication, the authors should cite this paper or include the following statement in the acknowledgments:
+       "The data used in our work were taken from the catalog (Dong et al. 2025), and the original data sources are cited therein."
