@@ -10,7 +10,7 @@ We attempted to create an interactive interface to implement the application of 
 
 
 2. Page Instructions.
-   (1) According to Dong et al. 2024, we set the default initial values ​​of the parameters for the 447 non-repeating FRB examples in the article.
+   (1) According to CHIME CATALOG1, we set the default initial values ​​of the parameters for the 447 non-repeating FRB examples.
        Of course, you can modify them according to your own requirements.
    (2) The uploaded file must be in txt format, with only two columns of data.
        The first column is the redshift value of the sample, and the second column is the energy value of the sample, just like the sample ``data.txt'' file
@@ -20,6 +20,6 @@ We attempted to create an interactive interface to implement the application of 
 
 3. Note.
    (1) The nonparametric method used here is based on Lynden-Bell 1971 and Efron & Petrosian 1992.
-   (2) For additional detailed calculations, please refer to Dong et al. (2025).
+   (2) For additional detailed calculations, please refer to Dong et al. (2026).
    (3) Everyone is welcome to use our code, but we ask that if the provided data or software is used in any publication, the authors should cite this paper or include the following statement in the acknowledgments:
-       "The data used in our work were taken from the catalog (Dong et al. 2025), and the original data sources are cited therein."
+       "The data used in our work were taken from the catalog (Dong et al. 2026), and the original data sources are cited therein."
